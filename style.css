@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+    background-color: aqua;
+    border-color: blue;
+    padding: 3px;
+}
